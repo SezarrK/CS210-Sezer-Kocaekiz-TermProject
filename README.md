@@ -46,7 +46,7 @@ This project requires Python 3.x and the following dependencies:
 To install all the dependencies, use the following command in a clean virtual environment:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### Installing
 
