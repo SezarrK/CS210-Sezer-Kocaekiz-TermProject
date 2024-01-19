@@ -33,7 +33,7 @@ Chatbot Integration: Explore the use of a chatbot to enhance user interaction an
 
 *CONTENT OF DATA*
 
-The original dataset includes a 2248 rows × 4 columns matrix. The first column indicates when I listened to that music, the second column contains the artist's name, the third column contains the track name, and the fourth one includes the milliseconds listened to that song. I have made some changes to the dataframe, which are outlined in the Cs210SpotiDataProject.py file itself, to further investigate my dataframe.
+The original dataset includes a 2248 rows × 4 columns matrix. The first column indicates when I listened to that music, the second column contains the artist's name, the third column contains the track name, and the fourth one includes the milliseconds listened to that song. I have made some changes to the dataframe, which are outlined in the Cs210SpotiDataProject.ipynb file itself, to further investigate my dataframe.
 
 ## Requirements
 This project requires Python 3.x and the following dependencies:
@@ -54,8 +54,9 @@ pip install -r requirements.txt
 
 ### Executing program
 
-* Run the program by running `Cs210SpotiDataProject.py`. After some time a user can inspect the file with their inputs on the bottom of each code segment.
+* Run the program by running `Cs210SpotiDataProject.ipynb`. After some time (Total run time: 22.580676317214966 seconds) a user can inspect the file with their inputs on the bottom of each code segment.
 * User can inspect the original .json file located in the repository named StreamingHistorySezerKocaekiz.json file
+* More detailed explanations are present in Cs210SpotiDataProject.ipynb files code blocks and text blocks.
 
 ## TO-DO
 
