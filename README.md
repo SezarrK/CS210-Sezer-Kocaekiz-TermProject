@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ### Executing program
 
-* Run the program by running `Cs210SpotiDataProject.ipynb`. After some time (Total run time: 22.580676317214966 seconds) a user can inspect the file with their inputs on the bottom of each code segment.
+* Run the program by running `Cs210SpotiDataProject.ipynb`. After some time (Total run time: Total run time: 23.76 seconds) a user can inspect the file with their inputs on the bottom of each code segment.
 * User can inspect the original .json file located in the repository named StreamingHistorySezerKocaekiz.json file
 * More detailed explanations are present in Cs210SpotiDataProject.ipynb files code blocks and text blocks.
 
